@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jovens Empreendedorismo</title>
+    <script type="text/javascript">
+        videos = {
+            "uxui": "https://www.youtube.com/embed/mzuVXdO8MD4",
+            "tiktok": "https://www.youtube.com/embed/xaUwbqcU7NM",
+        };
+    </script>
+</head>
+<body>
+    <div style="max-width: 400px; margin: 20px auto;">
+        <iframe id="videoFrame" width="400" height="710"
+            src=""
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+        </iframe>
+        <script>
+            function getQueryParam(param) {
+                const urlParams = new URLSearchParams(window.location.search);
+                return urlParams.get(param);
+            }
+            const name = getQueryParam('name');
+            if (name && videos[name]) {
+                document.getElementById('videoFrame').src = videos[name];
+            }
+        </script>
+    </div>
+</body>
+</html>
