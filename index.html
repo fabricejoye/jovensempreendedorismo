@@ -9,17 +9,23 @@
             "uxui": "https://www.youtube.com/embed/mzuVXdO8MD4",
             "tiktok": "https://www.youtube.com/embed/xaUwbqcU7NM",
             "plr1": "https://www.youtube.com/embed/aZlUOSsyVmQ",
+            "IA1": "https://www.youtube.com/embed/I6hz8pABzRM",
+            "IA2": "https://www.youtube.com/embed/U6ZbLktiww8",
+            "IA3": "https://www.youtube.com/embed/GR02ZZ1qMgQ",
         };
     </script>
 </head>
 <body>
-    <div style="max-width: 400px; margin: 20px auto;">
-        <iframe id="videoFrame" width="400" height="710"
-            src=""
-            title="YouTube video player" frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen>
-        </iframe>
+    <div class="video-container" style="max-width: 400px; margin: 20px auto;">
+        <div style="position: relative; width: 100%; padding-top: 177.5%;">
+            <iframe id="videoFrame"
+                src=""
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;">
+            </iframe>
+        </div>
         <script>
             function getQueryParam(param) {
                 const urlParams = new URLSearchParams(window.location.search);
