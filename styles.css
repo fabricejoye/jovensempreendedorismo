@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+.video-wrapper {
+    max-width: 400px; 
+    margin: 20px auto;
+}
+
+.video-wrapper .video-player {
+    position: relative; 
+    width: 100%; 
+    padding-top: 177.5%; /* 16:9 aspect ratio */
+}
+
+.poster, iframe {
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%; 
+    border: 0;
+    background: white;
+}
+
+.poster img {
+    cursor: pointer;
+    z-index: 2; /* Ensure the overlay is above the iframe */
+}
+
+.poster.hidden {
+    display: none;
+}
+
+.no-video iframe, .no-video .poster {
+    display: none;
+}
