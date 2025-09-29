@@ -63,7 +63,7 @@ function getQueryParam(param) {
 }
 
 function setVideo() {
-    document.querySelector('h1').textContent = videos[name].title;
+    //document.querySelector('h1').textContent = videos[name].title;
     iframe.src = videoBaseURL + videos[name].url;
 }
 
@@ -84,7 +84,7 @@ function hidePoster() {
 
 function setError() {
     document.querySelector('.video-wrapper').classList.add('no-video');
-    document.querySelector('h1').textContent = "Vídeo não encontrado";
+    //document.querySelector('h1').textContent = "Vídeo não encontrado";
 }
 
 // Initialize

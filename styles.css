@@ -38,3 +38,15 @@ h1 {
 .no-video iframe, .no-video .poster {
     display: none;
 }
+
+.error-message {
+    text-align: center;
+    font-size: 1.2em;
+    color: red;
+    font-family: Arial, sans-serif;
+    display: none;
+}
+
+.no-video .error-message {
+    display: block;
+}
