@@ -59,9 +59,7 @@ videos = {
         return urlParams.get(param);
     }
     const name = getQueryParam('name');
-    const playButton = document.getElementById('playVideoBtn');
-    const posterWrapper = document.getElementById('poster');
-    const posterBasePath = 'imagens/';
+    
 
     /* const tag = document.createElement('script');
     tag.src = "https://www.youtube.com/iframe_api";
@@ -85,6 +83,10 @@ videos = {
       });
     }
 
+    const playButton = document.getElementById('playVideoBtn');
+    const posterWrapper = document.getElementById('poster');
+    const posterBasePath = 'imagens/';
+
     function setVideo() {
         playButton.addEventListener('click', startVideo);
         if (videos[name].hasPoster) {
@@ -106,6 +108,7 @@ videos = {
     }
 
     function onPlayerReady(event) {
+      console.log("Player is ready");
       if (videos[name]) {
         setVideo();
       } else {
