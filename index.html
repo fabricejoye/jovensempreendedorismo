@@ -5,30 +5,21 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Jovens Empreendedores digitais - Shorts</title>
         <link rel="stylesheet" href="styles.css">
+        <script src="https://www.youtube.com/iframe_api"></script>
     </head>
     <body>
-        <div class="video-wrapper">
-            <p class="error-message">Vídeo não encontrado</p>
-            <div class="video-player">
-                <iframe id="videoFrame"
-                    src=""
-                    title="YouTube video player" frameborder="0"
-                    allowfullscreen>
-                </iframe>
-                <!-- <iframe id="videoFrame"
-                    src=""
-                    title="YouTube video player" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    referrerpolicy="strict-origin-when-cross-origin"
-                    allowfullscreen>
-                </iframe> -->
-                <div class="poster">
-                    <button id="playVideoBtn" aria-label="Reproduzir vídeo">
-                        <img src="" width="100%" height="auto" alt="Capa">
-                    </button>
-                </div>
-            </div>
-        </div>
-        <script src="script.js"></script>
-    </body>
+
+  <!-- <h2 class=" hidden">Shorts Responsivo com Poster</h2> -->
+  <div id="player-container">
+    <div class="message-error">Nenhum vídeo encontrado</div>
+    <div id="poster">
+        <button id="playVideoBtn" aria-label="Reproduzir vídeo">
+            <img src="" width="100%" height="auto" alt="Capa">
+        </button>
+    </div>
+    <div id="player"></div>
+  </div>
+  <script src="script.js"></script>
+
+</body>
 </html>
