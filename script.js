@@ -14,6 +14,11 @@ videos = {
         title: "Vídeo 2 - Ferramenta de IA para Redes Sociais (Roteiro Canva e Chat GPT)",
         hasPoster: true
     },
+    "empreendedorismo4": {
+        url: "6uBvIhiyvgA",
+        title: "Video 4 - MEI",
+        hasPoster: true
+    },
     "IA4": {
         url: "GR02ZZ1qMgQ",
         title: "Vídeo 4 - Criando HQ com a IA para o seu negócio",
@@ -32,6 +37,21 @@ videos = {
     "influencer1": {
         url: "0NpSf_xO32Q",
         title: "Vídeo 1 - Como criar um perfil para atuar como Digital Influencer?",
+        hasPoster: true
+    },
+    "negocios1": {
+        url: "bN_jjUyfBeY",
+        title: "VÍDEO 1 - Conhecendo o Modelo de Negócio Canvas",
+        hasPoster: true
+    },
+    "negocios2": {
+        url: "VKacEuaHCnQ",
+        title: "VÍDEO 2 - Criando um Modelo de negócios Canvas",
+        hasPoster: true
+    },
+    "negocios3": {
+        url: "Ur83QvKsMP8",
+        title: "VÍDEO 3 - Preenchendo o Modelo de Negócios Canvas",
         hasPoster: true
     },
     "plr1": {
