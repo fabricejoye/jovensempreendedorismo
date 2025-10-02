@@ -24,6 +24,11 @@ videos = {
         title: "Video 4 - MEI",
         hasPoster: true
     },
+    "facebook1": {
+        url: "CvFNhOKav90",
+        title: "Vídeo 1 - Como criar um perfil atrativo para vendas",
+        hasPoster: true
+    },
     "IA4": {
         url: "GR02ZZ1qMgQ",
         title: "Vídeo 4 - Criando HQ com a IA para o seu negócio",
