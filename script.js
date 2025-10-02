@@ -79,6 +79,11 @@ videos = {
         title: "Vídeo 1 - Design de Interface e de Experiência do Usuário",
         hasPoster: true
     },
+    "whatsapp1": {
+        url: "VVqRHpt8YLg",
+        title: "Video 1 - Criando e conhecendo o WhatsApp Business",
+        hasPoster: true
+    },
 };
 
 const posterWrapper = document.querySelector('.poster');
