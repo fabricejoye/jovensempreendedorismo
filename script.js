@@ -14,6 +14,11 @@ videos = {
         title: "Vídeo 2 - Ferramenta de IA para Redes Sociais (Roteiro Canva e Chat GPT)",
         hasPoster: true
     },
+    "ecommerce1": {
+        url: "jmSVMXjyuYU",
+        title: "Video 1 - O Mercado de vendas na Internet: guia para iniciar e vender com sucesso no e-commerce",
+        hasPoster: true
+    },
     "empreendedorismo4": {
         url: "6uBvIhiyvgA",
         title: "Video 4 - MEI",
