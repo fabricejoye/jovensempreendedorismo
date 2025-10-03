@@ -19,9 +19,19 @@ videos = {
         title: "Video 1 - O Mercado de vendas na Internet: guia para iniciar e vender com sucesso no e-commerce",
         hasPoster: true
     },
+    "empreendedorismo1": {
+        url: "Tc_QvNsYHAs",
+        title: "VIDEO 1 - Empreendedorismo: o que é e como encontramos no dia a dia",
+        hasPoster: false
+    },
     "empreendedorismo4": {
         url: "6uBvIhiyvgA",
         title: "Video 4 - MEI",
+        hasPoster: true
+    },
+    "dropshipping1": {
+        url: "XN3LkiHFmYM",
+        title: "VÍDEO 1 - Como funciona o dropshipping (parte 1 - teórica)?",
         hasPoster: true
     },
     "facebook1": {
