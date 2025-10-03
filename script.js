@@ -59,6 +59,11 @@ videos = {
         title: "Vídeo 1 - Como criar um perfil para atuar como Digital Influencer?",
         hasPoster: true
     },
+    "infoproduto1": {
+        url: "aqaRytfybTw",
+        title: "Vídeo 1 - O que é e como funciona o marketing de afiliados para infoprodutos?",
+        hasPoster: true
+    },
     "negocios1": {
         url: "bN_jjUyfBeY",
         title: "VÍDEO 1 - Conhecendo o Modelo de Negócio Canvas",
@@ -77,6 +82,11 @@ videos = {
     "plr1": {
         url: "aZlUOSsyVmQ",
         title: "Vídeo 1 - PLR",
+        hasPoster: true
+    },
+    "trafego1": {
+        url: "ZvxpolmN3EE",
+        title: "Vídeo 1 - Tráfego Pago no Instagram",
         hasPoster: true
     },
     "tiktok": {
