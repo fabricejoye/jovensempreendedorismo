@@ -99,6 +99,11 @@ videos = {
         title: "Vídeo 1 - Design de Interface e de Experiência do Usuário",
         hasPoster: true
     },
+    "youtube": {
+        url: "P8nsifpwRZs",
+        title: "Vídeo 1 - Como criar um canal no YouTube para ajudar o seu negócio?",
+        hasPoster: true
+    },
     "whatsapp1": {
         url: "VVqRHpt8YLg",
         title: "Video 1 - Criando e conhecendo o WhatsApp Business",
