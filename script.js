@@ -64,6 +64,11 @@ videos = {
         title: "Vídeo 1 - O que é e como funciona o marketing de afiliados para infoprodutos?",
         hasPoster: true
     },
+    "mercadolivre1": {
+        url: "ZI9n_tlfq3M",
+        title: "Vídeo 1 - Mercado Livre: apresentação e benefícios",
+        hasPoster: true
+    },
     "negocios1": {
         url: "bN_jjUyfBeY",
         title: "VÍDEO 1 - Conhecendo o Modelo de Negócio Canvas",
