@@ -114,6 +114,11 @@ videos = {
         title: "Video 1 - Criando e conhecendo o WhatsApp Business",
         hasPoster: true
     },
+    "whatsapp2": {
+        url: "a5lAEUHlmgM",
+        title: "Vídeo 2 - Conhecendo as funcionalidades do whatsapp business",
+        hasPoster: true
+    },
 };
 
 const posterWrapper = document.querySelector('.poster');
