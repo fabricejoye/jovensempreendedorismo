@@ -34,6 +34,11 @@ videos = {
         title: "VÍDEO 1 - Como funciona o dropshipping (parte 1 - teórica)?",
         hasPoster: true
     },
+    "encapsulado01": {
+        url: "zLL4PpS4g_c",
+        title: "Vídeo 1 - O que é e como funciona o marketing de afiliados encapsulados?",
+        hasPoster: true
+    },
     "facebook1": {
         url: "CvFNhOKav90",
         title: "Vídeo 1 - Como criar um perfil atrativo para vendas",
