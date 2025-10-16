@@ -24,6 +24,11 @@ videos = {
         title: "VIDEO 1 - Empreendedorismo: o que é e como encontramos no dia a dia",
         hasPoster: false
     },
+    "empreendedorismo2": {
+        url: "UnxGc-G1HOo",
+        title: "Vídeo 2 - Conhecendo o Empreendedorismo Digital",
+        hasPoster: false
+    },
     "empreendedorismo4": {
         url: "6uBvIhiyvgA",
         title: "Video 4 - MEI",
@@ -68,6 +73,11 @@ videos = {
         url: "aqaRytfybTw",
         title: "Vídeo 1 - O que é e como funciona o marketing de afiliados para infoprodutos?",
         hasPoster: true
+    },
+    "marketing3": {
+        url: "1rFtYfuBbto",
+        title: "Vídeo 3 - Os 8Ps do Marketing Digital",
+        hasPoster: false
     },
     "mercadolivre1": {
         url: "ZI9n_tlfq3M",
