@@ -4,6 +4,11 @@ videos = {
         title: "Vídeo Único - O que é o cooperativismo de plataforma e como ele difere dos modelos tradicionais de negócios digitais?",
         hasPoster: true
     },
+    "copywriting1": {
+        url: "3NKZB-MQ6bE",
+        title: "Vídeo 1 - Copywriting e a importância para o seu negócio na internet",
+        hasPoster: false
+    },
     "design1": {
         url: "4AUZjgU8iCs",
         title: "Vídeo 1 - Design para Redes Sociais",
@@ -43,6 +48,11 @@ videos = {
         url: "zLL4PpS4g_c",
         title: "Vídeo 1 - O que é e como funciona o marketing de afiliados encapsulados?",
         hasPoster: true
+    },
+    "encapsulado02": {
+        url: "PHLQvH0zx34",
+        title: "Vídeo 2 - Como se cadastrar na plataforma MONETIZZE como afiliado de encapsulados?",
+        hasPoster: false
     },
     "facebook1": {
         url: "CvFNhOKav90",
