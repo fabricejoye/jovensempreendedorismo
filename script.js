@@ -124,6 +124,11 @@ videos = {
         title: "Vídeo 1 - Utilizando o TikTok para o seu negócio",
         hasPoster: true
     },
+    "tiktok2": {
+        url: "oaKx4-5SXkM",
+        title: "Vídeo 2 - Como criar um perfil atrativo e profissional para vender no Tik Tok",
+        hasPoster: false
+    },
     "uxui": {
         url: "mzuVXdO8MD4",
         title: "Vídeo 1 - Design de Interface e de Experiência do Usuário",
