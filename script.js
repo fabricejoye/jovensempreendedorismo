@@ -59,6 +59,11 @@ videos = {
         title: "Vídeo 1 - Como criar um perfil atrativo para vendas",
         hasPoster: true
     },
+    "IA2": {
+        url: "4xO-QgC3ta0",
+        title: "Vídeo 2 - Transformando as imagens e fotos do seu negócio com IA?",
+        hasPoster: false
+    },
     "IA4": {
         url: "GR02ZZ1qMgQ",
         title: "Vídeo 4 - Criando HQ com a IA para o seu negócio",
@@ -84,6 +89,11 @@ videos = {
         title: "Vídeo 1 - O que é e como funciona o marketing de afiliados para infoprodutos?",
         hasPoster: true
     },
+    "infoproduto3": {
+        url: "WGNZTBjAtlo",
+        title: "Vídeo 3: Como se cadastrar na plataforma EDUZZ?",
+        hasPoster: false
+    },
     "marketing3": {
         url: "1rFtYfuBbto",
         title: "Vídeo 3 - Os 8Ps do Marketing Digital",
@@ -93,6 +103,11 @@ videos = {
         url: "ZI9n_tlfq3M",
         title: "Vídeo 1 - Mercado Livre: apresentação e benefícios",
         hasPoster: true
+    },
+    "mercadolivre2": {
+        url: "fxTdze7hiBI",
+        title: "Vídeo 2 - Como criar uma conta e um anúncio no Mercado Livre",
+        hasPoster: false
     },
     "negocios1": {
         url: "bN_jjUyfBeY",
