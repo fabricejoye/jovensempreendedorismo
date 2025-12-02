@@ -56,7 +56,7 @@ videos = {
     },
     "encapsulado03": {
         url: "BvYjhHn1vCE",
-        title: "Vídeo 3 - Como se cadastrar na plataforma BRAIP como afiliado de encapsulados?",
+        title: "Vídeo 3 - Como se cadastrar na plataforma HOTMART como afiliado de encapsulados?",
         hasPoster: false
     },
     "facebook1": {
