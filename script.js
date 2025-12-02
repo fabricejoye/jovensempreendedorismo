@@ -51,7 +51,12 @@ videos = {
     },
     "encapsulado02": {
         url: "PHLQvH0zx34",
-        title: "Vídeo 2 - Como se cadastrar na plataforma MONETIZZE como afiliado de encapsulados?",
+        title: "Vídeo 2 - Como se cadastrar na plataforma MONETIZZE como afiliado de encapsulados?",
+        hasPoster: false
+    },
+    "encapsulado03": {
+        url: "BvYjhHn1vCE",
+        title: "Vídeo 3 - Como se cadastrar na plataforma BRAIP como afiliado de encapsulados?",
         hasPoster: false
     },
     "facebook1": {
