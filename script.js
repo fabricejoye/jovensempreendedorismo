@@ -9,6 +9,12 @@ videos = {
         title: "Vídeo 1 - Copywriting e a importância para o seu negócio na internet",
         hasPoster: false
     },
+    
+    "copywriting2": {
+        url: "ZCyW0ClRKm0",
+        title: "Vídeo 2 - Ferramenta de IA para te ajudar na escrita de textos para seu negócio",
+        hasPoster: false
+    },
     "design1": {
         url: "4AUZjgU8iCs",
         title: "Vídeo 1 - Design para Redes Sociais",
@@ -83,6 +89,11 @@ videos = {
         url: "VXbBAN1CS70",
         title: "Vídeo 1 - Como criar uma conta no Ifood para apoiar seu negócio no mercado digital?",
         hasPoster: true
+    },
+    "ifood2": {
+        url: "x9WQFu48zdk",
+        title: "Vídeo 2 - Como ter um perfil com bom posicionamento no iFood?",
+        hasPoster: false
     },
     "influencer1": {
         url: "0NpSf_xO32Q",
