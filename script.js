@@ -180,6 +180,16 @@ videos = {
         title: "Vídeo 2 - Conhecendo as funcionalidades do whatsapp business",
         hasPoster: true
     },
+    "metricas1": {
+        url: "ABI3rnH0DSE",
+        title: "Vídeo 1",
+        hasPoster: false
+    },
+    "metricas2": {
+        url: "15wxPqjBcpM",
+        title: "Vídeo 2",
+        hasPoster: false
+    },
 };
 
 const posterWrapper = document.querySelector('.poster');
