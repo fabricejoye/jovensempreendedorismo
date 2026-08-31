@@ -118,7 +118,7 @@ videos = {
     "mercadolivre1": {
         url: "7ei2OtYRIS4",
         title: "Vídeo 1 - Mercado Livre: apresentação e benefícios",
-        hasPoster: true
+        hasPoster: false
     },
     "mercadolivre2": {
         url: "fxTdze7hiBI",
