@@ -125,6 +125,16 @@ videos = {
         title: "Vídeo 2 - Como criar uma conta e um anúncio no Mercado Livre",
         hasPoster: false
     },
+    "metricas1": {
+        url: "Ji4dRLOLw5w",
+        title: "Vídeo 1 - Utilizando métricas para o seu negócio digital",
+        hasPoster: false
+    },
+    "metricas2": {
+        url: "BQOj7b2jw3w",
+        title: "Vídeo 2 - Métricas de Marketing",
+        hasPoster: false
+    },
     "negocios1": {
         url: "bN_jjUyfBeY",
         title: "VÍDEO 1 - Conhecendo o Modelo de Negócio Canvas",
@@ -140,10 +150,20 @@ videos = {
         title: "VÍDEO 3 - Preenchendo o Modelo de Negócios Canvas",
         hasPoster: true
     },
+    "pagamento2": {
+        url: "1E50jQ1KCVM",
+        title: "Vídeo 2 - Meios de pagamentos digitais",
+        hasPoster: false
+    },
     "plr1": {
         url: "aZlUOSsyVmQ",
         title: "Vídeo 1 - PLR",
         hasPoster: true
+    },
+    "socialmedia2": {
+        url: "e2Ux0PhD5Mg",
+        title: "Vídeo 2 - Criação de conteúdo",
+        hasPoster: false
     },
     "trafego1": {
         url: "ZvxpolmN3EE",
@@ -158,6 +178,11 @@ videos = {
     "tiktok2": {
         url: "oaKx4-5SXkM",
         title: "Vídeo 2 - Como criar um perfil atrativo e profissional para vender no Tik Tok",
+        hasPoster: false
+    },
+    "tiktok5": {
+        url: "mcKN4fqB7Mg",
+        title: "Vídeo 5 - Lives de vendas no TikTok",
         hasPoster: false
     },
     "uxui": {
@@ -179,16 +204,6 @@ videos = {
         url: "a5lAEUHlmgM",
         title: "Vídeo 2 - Conhecendo as funcionalidades do whatsapp business",
         hasPoster: true
-    },
-    "metricas1": {
-        url: "ABI3rnH0DSE",
-        title: "Vídeo 1",
-        hasPoster: false
-    },
-    "metricas2": {
-        url: "15wxPqjBcpM",
-        title: "Vídeo 2",
-        hasPoster: false
     },
 };
 
