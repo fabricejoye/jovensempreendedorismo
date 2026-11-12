@@ -110,6 +110,11 @@ videos = {
         title: "Vídeo 3: Como se cadastrar na plataforma EDUZZ?",
         hasPoster: false
     },
+    "instagram1": {
+        url: "lkOhduU13O4",
+        title: "Vídeo 1: Como criar um perfil atrativo para vendas no Instagram?",
+        hasPoster: false
+    },
     "marketing3": {
         url: "1rFtYfuBbto",
         title: "Vídeo 3 - Os 8Ps do Marketing Digital",
